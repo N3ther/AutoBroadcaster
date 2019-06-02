@@ -1,0 +1,11 @@
+name: JoinBroadcaster
+main: com.N3.main.Main
+version: 1.0
+api-version: 1.13
+commands:
+   jb:
+      description: base command of JoinBroadcaster
+      usage: /jb
+   jb reload:
+      description: Reloads the JoinBroadcaster config.yml
+      usage: /jb reload

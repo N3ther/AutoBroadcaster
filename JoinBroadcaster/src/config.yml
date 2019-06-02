@@ -1,0 +1,4 @@
+message: %eWelcome to the server, &6&levent.getPlayer().getName()%e!
+newPlayerMessage: Hello, and welcome to the server! Please do /rules and read them carefully!
+autoUpdate: true
+updateDevVersions: false
